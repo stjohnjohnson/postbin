@@ -1,0 +1,26 @@
+{
+  "name": "postbin",
+  "version": "1.0.2",
+  "description": "Quick service to listen on a port for HTTP requests",
+  "bin": {
+    "postbin.js": "postbin.js"
+  },
+  "scripts": {
+    "test": "echo \"No test specified\"",
+    "bump": "ls -al ./node_modules/.bin && ./node_modules/.bin/npm-auto-version && cat package.json",
+    "push": "git push origin --tags"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/stjohnjohnson/postbin.git"
+  },
+  "author": "St. John Johnson <st.john.johnson@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/stjohnjohnson/postbin/issues"
+  },
+  "homepage": "https://github.com/stjohnjohnson/postbin",
+  "devDependencies": {
+    "npm-auto-version": "^1.0.0"
+  }
+}
