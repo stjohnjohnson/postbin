@@ -1,5 +1,9 @@
 # Postbin
 
+[![wercker status](https://app.wercker.com/status/6aa77d83c0b36ad54d9b5d5f4ee42435/s "wercker status")](https://app.wercker.com/project/bykey/6aa77d83c0b36ad54d9b5d5f4ee42435)
+[![npm downloads](https://img.shields.io/npm/dt/postbin.svg?maxAge=2592000)](https://www.npmjs.com/package/postbin)
+[![npm version](https://img.shields.io/npm/v/postbin.svg?maxAge=2592000)](https://www.npmjs.com/package/postbin)
+
 Quick script for listening to HTTP traffic
 
 ## Usage
