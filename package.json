@@ -7,8 +7,7 @@
   },
   "scripts": {
     "test": "echo \"No test specified\"",
-    "prepublish": "npm-auto-version",
-    "postpublish": "git push origin --tags"
+    "bump": "npm-auto-version"
   },
   "repository": {
     "type": "git",
